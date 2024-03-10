@@ -1,0 +1,15 @@
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\bin\Debug\net6.0\code task 2.exe
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\bin\Debug\net6.0\code task 2.deps.json
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\bin\Debug\net6.0\code task 2.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\bin\Debug\net6.0\code task 2.dll
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\bin\Debug\net6.0\code task 2.pdb
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.dll
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\refint\code task 2.dll
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.pdb
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\code task 2.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task2\code task 2\code task 2\obj\Debug\net6.0\ref\code task 2.dll
