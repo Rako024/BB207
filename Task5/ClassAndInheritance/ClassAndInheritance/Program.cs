@@ -27,7 +27,7 @@ namespace ClassAndInheritance
                         while (true)
                         {
                             name = Console.ReadLine();
-                            if (!string.IsNullOrEmpty(name) && Regex.IsMatch(name, @"^[a-zA-z]+$"))
+                            if (!string.IsNullOrEmpty(name) && Regex.IsMatch(name, @"^[^\d\s]+$"))
                             {
                                 break;
                             }
@@ -42,7 +42,7 @@ namespace ClassAndInheritance
                         while (true)
                         {
                             surname = Console.ReadLine();
-                            if (!string.IsNullOrEmpty(surname) && Regex.IsMatch(surname, @"^[a-zA-z]+$"))
+                            if (!string.IsNullOrEmpty(surname) && Regex.IsMatch(surname, @"^[^\d\s]+$"))
                             {
                                 break;
                             }
