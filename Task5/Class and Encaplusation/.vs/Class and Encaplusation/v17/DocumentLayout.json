@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|c:\\users\\rashid\\desktop\\bb207\\task5\\class and encaplusation\\class and encaplusation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|solutionrelative:class and encaplusation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|c:\\users\\rashid\\desktop\\bb207\\task5\\class and encaplusation\\class and encaplusation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|solutionrelative:class and encaplusation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|c:\\users\\rashid\\desktop\\bb207\\task5\\class and encaplusation\\class and encaplusation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|solutionrelative:class and encaplusation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|c:\\users\\rashid\\desktop\\bb207\\task5\\class and encaplusation\\class and encaplusation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6AE6C-0FE2-4EAF-9FC9-24D261DBF602}|Class and Encaplusation\\Class and Encaplusation.csproj|solutionrelative:class and encaplusation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Library.cs",
+              "RelativeDocumentMoniker": "Class and Encaplusation\\Library.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Library.cs",
+              "RelativeToolTip": "Class and Encaplusation\\Library.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:43:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Product.cs",
+              "RelativeDocumentMoniker": "Class and Encaplusation\\Product.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Product.cs",
+              "RelativeToolTip": "Class and Encaplusation\\Product.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:43:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Program.cs",
+              "RelativeDocumentMoniker": "Class and Encaplusation\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Program.cs",
+              "RelativeToolTip": "Class and Encaplusation\\Program.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAQwC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:41:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Book.cs",
+              "RelativeDocumentMoniker": "Class and Encaplusation\\Book.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\Class and Encaplusation\\Class and Encaplusation\\Book.cs",
+              "RelativeToolTip": "Class and Encaplusation\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:43:31.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

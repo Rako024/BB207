@@ -1,0 +1,15 @@
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\bin\Debug\net6.0\Class and Encaplusation.exe
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\bin\Debug\net6.0\Class and Encaplusation.deps.json
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\bin\Debug\net6.0\Class and Encaplusation.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\bin\Debug\net6.0\Class and Encaplusation.dll
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\bin\Debug\net6.0\Class and Encaplusation.pdb
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.dll
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\refint\Class and Encaplusation.dll
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.pdb
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\Class and Encaplusation.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task5\Class and Encaplusation\Class and Encaplusation\obj\Debug\net6.0\ref\Class and Encaplusation.dll
