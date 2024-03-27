@@ -13,7 +13,19 @@ namespace ClassAndInheritance
                 
                 Console.WriteLine("1.Employee elave et.\n2.Butun iscilere bax.\n3.Maas araligina gore iscileri axtaris et.\n0.Programi bitir");
                 Console.Write("Seciminizi daxil edin = ");
-                int.TryParse(Console.ReadLine(), out  f);
+                while (true)
+                {
+                    if (int.TryParse(Console.ReadLine(), out f))
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        Console.Write("Secimde reqemden istifade edin:");
+                        continue;
+                    }
+                }
+               
 
                 Console.WriteLine();
                 switch (f)
@@ -27,7 +39,7 @@ namespace ClassAndInheritance
                         while (true)
                         {
                             name = Console.ReadLine();
-                            if (!string.IsNullOrEmpty(name) && Regex.IsMatch(name, @"^[^\d\s]+$"))
+                            if (!string.IsNullOrEmpty(name) && Regex.IsMatch(name, @"^[^\d\s-]+$"))
                             {
                                 break;
                             }
@@ -42,7 +54,7 @@ namespace ClassAndInheritance
                         while (true)
                         {
                             surname = Console.ReadLine();
-                            if (!string.IsNullOrEmpty(surname) && Regex.IsMatch(surname, @"^[^\d\s]+$"))
+                            if (!string.IsNullOrEmpty(surname) && Regex.IsMatch(surname, @"^[^\d\s-]+$"))
                             {
                                 break;
                             }
@@ -70,7 +82,7 @@ namespace ClassAndInheritance
                         while (true)
                         {
                             depName = Console.ReadLine();
-                            if (!string.IsNullOrEmpty(surname))
+                            if (!string.IsNullOrEmpty(depName))
                             {
                                 break;
                             }

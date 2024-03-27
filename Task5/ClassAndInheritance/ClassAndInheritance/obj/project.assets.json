@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rashid\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\II novbe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\ClassAndInheritance\\ClassAndInheritance\\ClassAndInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\ev\\BB207\\Task5\\ClassAndInheritance\\ClassAndInheritance\\ClassAndInheritance.csproj",
       "projectName": "ClassAndInheritance",
-      "projectPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\ClassAndInheritance\\ClassAndInheritance\\ClassAndInheritance.csproj",
-      "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task5\\ClassAndInheritance\\ClassAndInheritance\\obj\\",
+      "projectPath": "C:\\Users\\II novbe\\Desktop\\ev\\BB207\\Task5\\ClassAndInheritance\\ClassAndInheritance\\ClassAndInheritance.csproj",
+      "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\II novbe\\Desktop\\ev\\BB207\\Task5\\ClassAndInheritance\\ClassAndInheritance\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -71,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

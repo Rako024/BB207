@@ -13,3 +13,17 @@ C:\Users\Rashid\Desktop\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\
 C:\Users\Rashid\Desktop\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.pdb
 C:\Users\Rashid\Desktop\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.genruntimeconfig.cache
 C:\Users\Rashid\Desktop\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ref\ClassAndInheritance.dll
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\bin\Debug\net6.0\ClassAndInheritance.exe
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\bin\Debug\net6.0\ClassAndInheritance.deps.json
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\bin\Debug\net6.0\ClassAndInheritance.runtimeconfig.json
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\bin\Debug\net6.0\ClassAndInheritance.dll
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\bin\Debug\net6.0\ClassAndInheritance.pdb
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.dll
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\refint\ClassAndInheritance.dll
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.pdb
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ClassAndInheritance.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\ev\BB207\Task5\ClassAndInheritance\ClassAndInheritance\obj\Debug\net6.0\ref\ClassAndInheritance.dll
