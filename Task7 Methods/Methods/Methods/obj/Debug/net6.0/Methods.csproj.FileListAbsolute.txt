@@ -1,0 +1,15 @@
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Methods\Methods\obj\Debug\net6.0\ref\Methods.dll
