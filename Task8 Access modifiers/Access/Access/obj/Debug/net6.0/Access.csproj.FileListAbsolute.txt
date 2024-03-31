@@ -1,0 +1,30 @@
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\bin\Debug\net6.0\Access.exe
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\bin\Debug\net6.0\Access.deps.json
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\bin\Debug\net6.0\Access.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\bin\Debug\net6.0\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\bin\Debug\net6.0\Access.pdb
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\refint\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.pdb
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\Access.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task7 Methods\Access\Access\obj\Debug\net6.0\ref\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\bin\Debug\net6.0\Access.exe
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\bin\Debug\net6.0\Access.deps.json
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\bin\Debug\net6.0\Access.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\bin\Debug\net6.0\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\bin\Debug\net6.0\Access.pdb
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\refint\Access.dll
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.pdb
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\Access.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task8 Access modifiers\Access\Access\obj\Debug\net6.0\ref\Access.dll
