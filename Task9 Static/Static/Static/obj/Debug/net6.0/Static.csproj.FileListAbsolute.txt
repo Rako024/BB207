@@ -1,0 +1,15 @@
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\bin\Debug\net6.0\Static.exe
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\bin\Debug\net6.0\Static.deps.json
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\bin\Debug\net6.0\Static.dll
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\bin\Debug\net6.0\Static.pdb
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.dll
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.pdb
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task9 Static\Static\Static\obj\Debug\net6.0\ref\Static.dll
