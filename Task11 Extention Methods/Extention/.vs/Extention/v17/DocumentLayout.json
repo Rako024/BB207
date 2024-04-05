@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|c:\\users\\rashid\\desktop\\bb207\\task11 extention methods\\extention\\extention\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|solutionrelative:extention\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|c:\\users\\rashid\\desktop\\bb207\\task11 extention methods\\extention\\extention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|solutionrelative:extention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|c:\\users\\rashid\\desktop\\bb207\\task11 extention methods\\extention\\extention\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|solutionrelative:extention\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|c:\\users\\rashid\\desktop\\bb207\\task11 extention methods\\extention\\extention\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A556A-98C7-4255-A7E8-96D90C91DF81}|Extention\\Extention.csproj|solutionrelative:extention\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Store.cs",
+              "RelativeDocumentMoniker": "Extention\\Store.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Store.cs",
+              "RelativeToolTip": "Extention\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:00:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Person.cs",
+              "RelativeDocumentMoniker": "Extention\\Person.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Person.cs",
+              "RelativeToolTip": "Extention\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:00:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Product.cs",
+              "RelativeDocumentMoniker": "Extention\\Product.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Product.cs",
+              "RelativeToolTip": "Extention\\Product.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:59:49.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Program.cs",
+              "RelativeDocumentMoniker": "Extention\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task11 Extention Methods\\Extention\\Extention\\Program.cs",
+              "RelativeToolTip": "Extention\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:58:04.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

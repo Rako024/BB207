@@ -1,0 +1,15 @@
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\bin\Debug\net6.0\Extention.exe
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\bin\Debug\net6.0\Extention.deps.json
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\bin\Debug\net6.0\Extention.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\bin\Debug\net6.0\Extention.dll
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\bin\Debug\net6.0\Extention.pdb
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.dll
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\refint\Extention.dll
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.pdb
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\Extention.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task11 Extention Methods\Extention\Extention\obj\Debug\net6.0\ref\Extention.dll
