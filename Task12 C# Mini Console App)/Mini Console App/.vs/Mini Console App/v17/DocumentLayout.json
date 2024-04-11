@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\core\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|solutionrelative:core\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17545F8-68BA-4FCB-8162-824A77EB9D9D}|Mini Console App\\Mini Console App.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\mini console app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17545F8-68BA-4FCB-8162-824A77EB9D9D}|Mini Console App\\Mini Console App.csproj|solutionrelative:mini console app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\core\\exceptions\\classroomnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|solutionrelative:core\\exceptions\\classroomnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\core\\enums\\studenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|solutionrelative:core\\enums\\studenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task12 c# mini console app)\\mini console app\\core\\extention\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BCCE58-8B5B-4F7A-941E-07C05C183CB2}|Core\\Core.csproj|solutionrelative:core\\extention\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassroomNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:54:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Extention\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Extention\\Helper.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Extention\\Helper.cs",
+              "RelativeToolTip": "Core\\Extention\\Helper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:00:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Models\\School.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Models\\School.cs",
+              "RelativeToolTip": "Core\\Models\\School.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:51:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentType.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Enums\\StudentType.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\StudentType.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Enums\\StudentType.cs",
+              "RelativeToolTip": "Core\\Enums\\StudentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:26:02.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Models\\Classroom.cs",
+              "RelativeToolTip": "Core\\Models\\Classroom.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:09:16.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:06:14.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Mini Console App\\Program.cs",
+              "RelativeDocumentMoniker": "Mini Console App\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task12 C# Mini Console App)\\Mini Console App\\Mini Console App\\Program.cs",
+              "RelativeToolTip": "Mini Console App\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwGIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:03:23.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

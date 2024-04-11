@@ -1,0 +1,19 @@
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Mini Console App.exe
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Mini Console App.deps.json
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Mini Console App.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Mini Console App.dll
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Mini Console App.pdb
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Core.dll
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\bin\Debug\net6.0\Core.pdb
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.csproj.AssemblyReference.cache
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Con.50E75E22.Up2Date
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.dll
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\refint\Mini Console App.dll
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.pdb
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\Mini Console App.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task12 C# Mini Console App)\Mini Console App\Mini Console App\obj\Debug\net6.0\ref\Mini Console App.dll
