@@ -12,7 +12,7 @@ namespace Core.Models
     {
         private static int _id;
         public int Id { get; }
-        Student[] students;
+        public Student[] Students;
         public string Name { get; set; }
         public StudentType studentType;
         public int StudentLimit;
@@ -21,21 +21,21 @@ namespace Core.Models
         public Classroom(string name, StudentType type) 
         {
             Id = ++_id;
-            students  = new Student[] { };
+            Students  = new Student[] { };
             Name = name;
             studentType = type;
-           
+            
             StudentLimit =(int) studentType;
             
         }
 
         public void AddStudent(Student student)
         {
-            if (students.Length < StudentLimit)
+            if (Students.Length < StudentLimit)
             {
-                Array.Resize(ref students, students.Length + 1);
-                students[^1] = student;
-                StudentCount = students.Length;
+                Array.Resize(ref Students, Students.Length + 1);
+                Students[^1] = student;
+                StudentCount = Students.Length;
             }
             else
             {
@@ -44,7 +44,7 @@ namespace Core.Models
         }
         public Student FindById(int id)
         {
-            foreach (Student student in students)
+            foreach (Student student in Students)
             {
                 if(student.Id == id) return student;
             }
@@ -54,7 +54,7 @@ namespace Core.Models
         public void DeleteById(int id)
         {
             Student[] newStudents = new Student[] { };
-            foreach(Student student in students)
+            foreach(Student student in Students)
             {
                 if(student.Id != id)
                 {
@@ -62,16 +62,16 @@ namespace Core.Models
                     newStudents[^1] = student;
                 }
             }
-            if(newStudents.Length == students.Length)
+            if(newStudents.Length == Students.Length)
             {
                 throw new StudentNotFoundException();
             }
-            students = newStudents;
+            Students = newStudents;
         }
 
         public void ShowStudents()
         {
-            foreach(Student student in students)
+            foreach(Student student in Students)
             {
                 Console.WriteLine(student);
             }
@@ -79,7 +79,7 @@ namespace Core.Models
 
         public bool EditStudent(int id,string newName, string newSurname)
         {
-            foreach(var student in students)
+            foreach(var student in Students)
             {
                 if(student.Id == id)
                 {

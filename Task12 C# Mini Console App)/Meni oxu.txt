@@ -1,0 +1,26 @@
+
+
+console app-a əlavələr etdim hansıki menyunu 2 yerə böldüm:
+1)School menu
+2)Classroom menu
+
+1)School menuda:
+1.Classroom yarat - sininf yaratma
+2.Butun Sinifleri ekrana cixar 
+3.Secilmis sinifdeki telebeleri ekrana cixart
+4.Secilmis sinifin menusuna kec - sinif menuyusuna kecid. daxil edilen idli sinifin menyusu
+5.Secilmis sinifi sil
+6.Sinifi olmayan Telebeler(sinife menimset ve ya sil) - Burada əgər telebelerin olduğu sinif silinərsə o zaman həmin tələbələr keçici bir arrrayda tutulur və sonra onları başqa siniflərə daxil edə və ya silə bilərik.
+7.Secilmis sinifi editle - burada sinifin adını və StudentType-nı(Backend, Frontend) dəyişə bilərik ve id dəyişmir
+0.Proqramdan cix
+
+Classroom yaradıqda avtomatik olaraq id verilir. StudentLimit StudentType-a uğun olaraq avtomatik ya 20(backend) yada 15(Frontend) olaraq dəyişdirilir.
+
+
+2)Classroom menusunda:
+1.Telebe Yarat.
+2.Sinifdeki telebelere ekrana cixar
+3.Telebe sil
+4.Telebeni edit et - burada tələbənin adını ve soyadını dəyişə bilirik və id dəyişmir
+0.Ust menuya qayit
+

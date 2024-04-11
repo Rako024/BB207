@@ -18,9 +18,11 @@ namespace Mini_Console_App
                     "3.Secilmis sinifdeki telebeleri ekrana cixart\r\n" +
                     "4.Secilmis sinifin menusuna kec\n" +
                     "5.Secilmis sinifi sil\n"+
+                    "6.Sinifi olmayan Telebeler(sinife menimset ve ya sil)\n"+
+                    "7.Secilmis sinifi editle\n"+
                     "0.Proqramdan cix\n" +
                     "--------------------------------------\n");
-                Console.Write("Seciminizi daixl etdin : ");
+                Console.Write("Seciminizi daxil etdin : ");
                 string choice = Console.ReadLine();
 
                 switch (choice)
@@ -39,7 +41,7 @@ namespace Mini_Console_App
                             goto CLASSName;
                         }
                     CLASSTYPE:
-                        Console.WriteLine("Sinif Tipini secin:\n1.Backend\n2.Frontend\nSeciminizi daxil edin:");
+                        Console.Write("Sinif Tipini secin:\n1.Backend\n2.Frontend\nSeciminizi daxil edin:");
                         string classType = Console.ReadLine();
                         StudentType studentType;
                         if (classType.Equals("1"))
@@ -76,7 +78,7 @@ namespace Mini_Console_App
                     case "4":
                         School.ShowClassrooms();
                     CLASSID2:
-                        Console.Write("\n Secdiyiniz sinifin id'ni daxil edin : ");
+                        Console.Write("\nSecdiyiniz sinifin id'ni daxil edin : ");
                         int classId1;
                         if (!int.TryParse(Console.ReadLine(), out classId1))
                         {
@@ -88,7 +90,7 @@ namespace Mini_Console_App
                     case "5":
                         School.ShowClassrooms();
                     CLASSID3:
-                        Console.Write("\n Secdiyiniz sinifin id'ni daxil edin : ");
+                        Console.Write("\nSecdiyiniz sinifin id'ni daxil edin : ");
                         int classId2;
                         if (!int.TryParse(Console.ReadLine(), out classId2))
                         {
@@ -97,6 +99,93 @@ namespace Mini_Console_App
                         }
                         School.RemoveClassroom(classId2);
                         goto MENU;
+                    case "6":
+                        if (School.TempStudents.Length == 0)
+                        {
+                            Console.WriteLine("Sinifi olmayan telebe yoxdur!");
+                        }
+                        else
+                        {
+                            School.ShowTempStudents();
+                            STUDENTID:
+                            Console.Write("Telebenin Id sini daxil edin : ");
+                            if(!int.TryParse(Console.ReadLine(),out int studentId))
+                            {
+                                Console.WriteLine("Id'ni duzgun daxil et!!!");
+                                goto STUDENTID;
+                            }
+                            TEMPMENU:
+                            Console.WriteLine("1. Telebeni sil\n" +
+                                "2. Telebeni Sinife daxil et\n" +
+                                "0. Menuya qayit");
+                            Console.Write("Seciminizi daxil edin : ");
+                            string studentChoice = Console.ReadLine();
+                            switch (studentChoice)
+                            {
+                                case "0":
+                                    goto MENU;
+                                case "1":
+                                    School.RemoveStudentInTempStudents(studentId);
+                                    goto TEMPMENU;
+                                case "2":
+                                    School.ShowClassrooms();
+                                CLASSID4:
+                                    Console.Write("\nSecdiyiniz sinifin id'ni daxil edin : ");
+                                    int classId3;
+                                    if (!int.TryParse(Console.ReadLine(), out classId3))
+                                    {
+                                        Console.WriteLine("Idni duzgun qeyd edin!!!");
+                                        goto CLASSID4;
+                                    }
+                                    School.TempStudentAddToClass(classId3, studentId);
+                                goto TEMPMENU;
+                                default:
+                                    Console.WriteLine("Secimi duzgun daxil edin!!!");
+                                    goto TEMPMENU;
+
+                            }
+                        }
+                        goto MENU;
+
+                    case "7":
+                        School.ShowClassrooms();
+                    CLASSID5:
+                        Console.Write("\n Secdiyiniz sinifin id'ni daxil edin : ");
+                        int classId4;
+                        if (!int.TryParse(Console.ReadLine(), out classId4))
+                        {
+                            Console.WriteLine("Idni duzgun qeyd edin!!!");
+                            goto CLASSID5;
+                        }
+
+                    CLASSName1:
+                        Console.Write("Sinifin adini daxil et : ");
+                        string className1 = Console.ReadLine();
+                        if (!className1.isClassroomNameValid())
+                        {
+                            Console.WriteLine("Sinif adini duzgun daxil et!");
+                            goto CLASSName1;
+                        }
+                    CLASSTYPE1:
+                        Console.Write("Sinif Tipini secin:\n1.Backend\n2.Frontend\nSeciminizi daxil edin:");
+                        string classType1 = Console.ReadLine();
+                        StudentType studentType1;
+                        if (classType1.Equals("1"))
+                        {
+                            studentType1 = StudentType.Backend;
+                        }
+                        else if (classType1.Equals("2"))
+                        {
+                            studentType1 = StudentType.Frontend;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Seciminizi dogru edin!");
+                            goto CLASSTYPE1;
+                        }
+                        School.EditClassroom(classId4, className1, studentType1);
+                        goto MENU;
+
                     default:
                         Console.WriteLine("Secimi dogru et!!!");
                         goto MENU;

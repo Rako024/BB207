@@ -8,6 +8,6 @@ namespace Core.Exceptions
 {
     public class ClassroomNotFoundException: Exception
     {
-        public ClassroomNotFoundException(string message = "Classroom not foud"):base(message) { }
+        public ClassroomNotFoundException(string message = "Classroom not found"):base(message) { }
     }
 }
