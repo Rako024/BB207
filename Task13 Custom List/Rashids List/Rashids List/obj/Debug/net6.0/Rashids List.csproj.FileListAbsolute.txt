@@ -1,0 +1,15 @@
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\bin\Debug\net6.0\Rashids List.exe
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\bin\Debug\net6.0\Rashids List.deps.json
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\bin\Debug\net6.0\Rashids List.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\bin\Debug\net6.0\Rashids List.dll
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\bin\Debug\net6.0\Rashids List.pdb
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.dll
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\refint\Rashids List.dll
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.pdb
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\Rashids List.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task 13 Custom List\Rashids List\Rashids List\obj\Debug\net6.0\ref\Rashids List.dll
