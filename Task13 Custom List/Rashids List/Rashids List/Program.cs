@@ -20,7 +20,7 @@
             
             ints.Inset(12, 2);
             ints.Inset(12, 4);
-            ints.CustomReverse(2,4);
+            ints.Sort();
             Console.WriteLine($"Rashid's List Cout = {ints.Count} Capacity = {ints.Capacity}");
             foreach (int i in ints)
             {

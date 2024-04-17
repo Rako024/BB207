@@ -164,6 +164,49 @@ namespace Rashids_List
 
         }
 
+        public T Find(Predicate<T> predicate)
+        {
+            foreach(T item in _items)
+            {
+                if(predicate(item)) return item;
+            }
+            return default(T);
+        }
+
+        public RashidsList<T> FindAll(Predicate<T> predicate)
+        {
+            RashidsList<T> list = new RashidsList<T>();
+            foreach(T item in _items)
+            {
+                if(predicate(item) ) list.Add(item);
+            }
+
+            return list;
+        }
+
+        public int RemoveAll(Predicate<T> predicate)
+        {
+            RashidsList<T> list = new RashidsList<T>();
+            int count = list.Count;
+            foreach(T item in list)
+            {
+                Remove(item);
+            }
+            return count;
+        }
+
+        public void Foreach(Action<T> action)
+        {
+            foreach(T item in _items)
+            {
+                action(item);
+            }
+        }
+
+        public void Sort()
+        {
+            Array.Sort( _items,0,Count );
+        }
 
         //forEach ucun lazimli methodlar
         public IEnumerator<T> GetEnumerator()   

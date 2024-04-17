@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rashids List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a871f0b4cfd696b8d60742102dab25faed541d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6802a828d90878d27210c1556bdf96c9ab997de9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rashids List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rashids List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
