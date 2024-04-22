@@ -1,0 +1,19 @@
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\Serialization and Deserialization.exe
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\Serialization and Deserialization.deps.json
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\Serialization and Deserialization.runtimeconfig.json
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\Serialization and Deserialization.dll
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\Serialization and Deserialization.pdb
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\FakeData.dll
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.csproj.AssemblyReference.cache
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.AssemblyInfoInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.AssemblyInfo.cs
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.sourcelink.json
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serializ.68FA4271.Up2Date
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.dll
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\refint\Serialization and Deserialization.dll
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.pdb
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\Serialization and Deserialization.genruntimeconfig.cache
+C:\Users\Rashid\Desktop\BB207\Task14 JSON and XML\Serialization and Deserialization\Serialization and Deserialization\obj\Debug\net6.0\ref\Serialization and Deserialization.dll

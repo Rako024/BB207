@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Aaron</Name>
+    <Surname>Thompson</Surname>
+    <PhoneNumber>01603-255607</PhoneNumber>
+    <Email>M.Cullen@youtube.info</Email>
+    <Adress>365 Fleming Gate</Adress>
+  </Student>
+  <Student>
+    <Name>Alexander</Name>
+    <Surname>Smith</Surname>
+    <PhoneNumber>01633-394776</PhoneNumber>
+    <Email>I.Carroll@globo.com</Email>
+    <Adress>795 White Valley</Adress>
+  </Student>
+  <Student>
+    <Name>Victoria</Name>
+    <Surname>Wright</Surname>
+    <PhoneNumber>01832-550804</PhoneNumber>
+    <Email>Ryder.Vaughan@techcrunch.us</Email>
+    <Adress>531 Mohamed Crescent</Adress>
+  </Student>
+  <Student>
+    <Name>Michael</Name>
+    <Surname>Joyce</Surname>
+    <PhoneNumber>01459-801756</PhoneNumber>
+    <Email>B.Hilton@pinterest.co.uk</Email>
+    <Adress>93 Weaver Walk</Adress>
+  </Student>
+  <Student>
+    <Name>Dominic</Name>
+    <Surname>Peters</Surname>
+    <PhoneNumber>01284-808117</PhoneNumber>
+    <Email>Khloe.White@pinterest.biz</Email>
+    <Adress>85 Obrien Gate</Adress>
+  </Student>
+  <Student>
+    <Name>Camila</Name>
+    <Surname>Nelson</Surname>
+    <PhoneNumber>01411-886076</PhoneNumber>
+    <Email>Jasmine.Whelan@globo.info</Email>
+    <Adress>242 Whittaker Rise</Adress>
+  </Student>
+  <Student>
+    <Name>Austin</Name>
+    <Surname>Thomas</Surname>
+    <PhoneNumber>01376-564810</PhoneNumber>
+    <Email>Lydia.Weaver@amazon.org.uk</Email>
+    <Adress>123 Stuart Terrace</Adress>
+  </Student>
+  <Student>
+    <Name>Jason</Name>
+    <Surname>Mohamed</Surname>
+    <PhoneNumber>01253-618516</PhoneNumber>
+    <Email>M.Haines@msdn.org</Email>
+    <Adress>398 Evans Hill</Adress>
+  </Student>
+  <Student>
+    <Name>Juan</Name>
+    <Surname>Lewis</Surname>
+    <PhoneNumber>01066-595537</PhoneNumber>
+    <Email>Robert.Davies@pinterest.co.uk</Email>
+    <Adress>426 Brown Mews</Adress>
+  </Student>
+  <Student>
+    <Name>Grace</Name>
+    <Surname>Thomas</Surname>
+    <PhoneNumber>01116-568571</PhoneNumber>
+    <Email>A.Naylor@msdn.co</Email>
+    <Adress>340 White Cottages</Adress>
+  </Student>
+  <Student>
+    <Name>Naomi</Name>
+    <Surname>Mohamed</Surname>
+    <PhoneNumber>01045-352546</PhoneNumber>
+    <Email>Elizabeth.Lindsay@qq.info</Email>
+    <Adress>215 Thompson Lane</Adress>
+  </Student>
+  <Student>
+    <Name>Zachary</Name>
+    <Surname>Mac</Surname>
+    <PhoneNumber>01839-618006</PhoneNumber>
+    <Email>A.Little@paypal.co</Email>
+    <Adress>177 Brown Road</Adress>
+  </Student>
+  <Student>
+    <Name>Dominic</Name>
+    <Surname>Mcfarlane</Surname>
+    <PhoneNumber>01362-772575</PhoneNumber>
+    <Email>A.Mcgrath@arstechnica.info</Email>
+    <Adress>864 Osborne Street</Adress>
+  </Student>
+  <Student>
+    <Name>Samuel</Name>
+    <Surname>Evans</Surname>
+    <PhoneNumber>01419-928272</PhoneNumber>
+    <Email>Camila.Savage@theguardian.org.uk</Email>
+    <Adress>462 Smith Yard</Adress>
+  </Student>
+  <Student>
+    <Name>Paul</Name>
+    <Surname>Barlow</Surname>
+    <PhoneNumber>01504-606511</PhoneNumber>
+    <Email>Nicholas.Nelson@taobao.co</Email>
+    <Adress>834 Johnson Park</Adress>
+  </Student>
+  <Student>
+    <Name>Caleb</Name>
+    <Surname>Lewis</Surname>
+    <PhoneNumber>01730-474726</PhoneNumber>
+    <Email>H.Carroll@amazon.us</Email>
+    <Adress>809 Thorne Cul de sac</Adress>
+  </Student>
+  <Student>
+    <Name>Zachary</Name>
+    <Surname>White</Surname>
+    <PhoneNumber>01211-851259</PhoneNumber>
+    <Email>E.Jennings@techcrunch.co.uk</Email>
+    <Adress>396 Robinson Mews</Adress>
+  </Student>
+  <Student>
+    <Name>Daniel</Name>
+    <Surname>Perkins</Surname>
+    <PhoneNumber>01694-708855</PhoneNumber>
+    <Email>A.Barlow@theguardian.info</Email>
+    <Adress>485 Summers Walk</Adress>
+  </Student>
+  <Student>
+    <Name>Madeline</Name>
+    <Surname>Wilson</Surname>
+    <PhoneNumber>01722-429883</PhoneNumber>
+    <Email>A.Harris@techcrunch.org.uk</Email>
+    <Adress>763 Weaver Mews</Adress>
+  </Student>
+  <Student>
+    <Name>Arianna</Name>
+    <Surname>Barlow</Surname>
+    <PhoneNumber>01237-655213</PhoneNumber>
+    <Email>Samuel.Kenny@bet365.org</Email>
+    <Adress>601 Taylor Yard</Adress>
+  </Student>
+</ArrayOfStudent>
