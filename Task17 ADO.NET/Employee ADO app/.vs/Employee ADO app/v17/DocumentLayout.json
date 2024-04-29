@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\servicies\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\servicies\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\exceptions\\notfounidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\exceptions\\notfounidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\employee ado app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\employee ado app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|c:\\users\\rashid\\desktop\\bb207\\task17 ado.net\\employee ado app\\employee ado app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60225D3D-8A2E-4E8C-9AF2-E6C901572E1E}|Employee ADO app\\Employee ADO app.csproj|solutionrelative:employee ado app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFounIdException.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Exceptions\\NotFounIdException.cs",
+              "RelativeDocumentMoniker": "Employee ADO app\\Exceptions\\NotFounIdException.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Exceptions\\NotFounIdException.cs",
+              "RelativeToolTip": "Employee ADO app\\Exceptions\\NotFounIdException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:12:25.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee ADO app",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Employee ADO app.csproj",
+              "RelativeDocumentMoniker": "Employee ADO app\\Employee ADO app.csproj",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Employee ADO app.csproj",
+              "RelativeToolTip": "Employee ADO app\\Employee ADO app.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T22:11:52.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee ADO app\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee ADO app\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:50:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Employee ADO app\\DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "Employee ADO app\\DataBase\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:02:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Servicies\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee ADO app\\Servicies\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Servicies\\EmployeeService.cs",
+              "RelativeToolTip": "Employee ADO app\\Servicies\\EmployeeService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:43:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee ADO app\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee ADO app\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:01:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Program.cs",
+              "RelativeDocumentMoniker": "Employee ADO app\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task17 ADO.NET\\Employee ADO app\\Employee ADO app\\Program.cs",
+              "RelativeToolTip": "Employee ADO app\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:43:11.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
