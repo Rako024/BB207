@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81EC59-0E1E-4B6F-98F0-244AE2F04F92}|EntitiyFramework\\EntitiyFramework.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\entitiyframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81EC59-0E1E-4B6F-98F0-244AE2F04F92}|EntitiyFramework\\EntitiyFramework.csproj|solutionrelative:entitiyframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19238192-8124-40B4-B2CA-1934F835CC10}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19238192-8124-40B4-B2CA-1934F835CC10}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21DD999-0712-4320-8501-791406C553E4}|Business\\Business.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\business\\servicies\\concreters\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21DD999-0712-4320-8501-791406C553E4}|Business\\Business.csproj|solutionrelative:business\\servicies\\concreters\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21DD999-0712-4320-8501-791406C553E4}|Business\\Business.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\business\\servicies\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21DD999-0712-4320-8501-791406C553E4}|Business\\Business.csproj|solutionrelative:business\\servicies\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C20C93-05B3-448E-A89A-9E6D7335E26F}|Data\\Data.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\data\\repositoryconcreters\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C20C93-05B3-448E-A89A-9E6D7335E26F}|Data\\Data.csproj|solutionrelative:data\\repositoryconcreters\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C20C93-05B3-448E-A89A-9E6D7335E26F}|Data\\Data.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\data\\repositoryconcreters\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C20C93-05B3-448E-A89A-9E6D7335E26F}|Data\\Data.csproj|solutionrelative:data\\repositoryconcreters\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19238192-8124-40B4-B2CA-1934F835CC10}|Core\\Core.csproj|c:\\users\\rashid\\desktop\\bb207\\task20 entitiyframework\\entitiyframework\\core\\repostoryabstracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19238192-8124-40B4-B2CA-1934F835CC10}|Core\\Core.csproj|solutionrelative:core\\repostoryabstracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:24:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\EntitiyFramework\\Program.cs",
+              "RelativeDocumentMoniker": "EntitiyFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\EntitiyFramework\\Program.cs",
+              "RelativeToolTip": "EntitiyFramework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:21:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Data\\RepositoryConcreters\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcreters\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Data\\RepositoryConcreters\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcreters\\GenericRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:18:00.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Data\\RepositoryConcreters\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcreters\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Data\\RepositoryConcreters\\StudentRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcreters\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:12:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Core\\RepostoryAbstracts\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepostoryAbstracts\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Core\\RepostoryAbstracts\\IStudentRepository.cs",
+              "RelativeToolTip": "Core\\RepostoryAbstracts\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:12:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Business\\Servicies\\Abstracts\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Business\\Servicies\\Abstracts\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Business\\Servicies\\Abstracts\\IStudentService.cs",
+              "RelativeToolTip": "Business\\Servicies\\Abstracts\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:07:21.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Business\\Servicies\\Concreters\\StudentService.cs",
+              "RelativeDocumentMoniker": "Business\\Servicies\\Concreters\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\BB207\\Task20 EntitiyFramework\\EntitiyFramework\\Business\\Servicies\\Concreters\\StudentService.cs",
+              "RelativeToolTip": "Business\\Servicies\\Concreters\\StudentService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIA6wDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:04:24.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
